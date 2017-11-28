@@ -1,11 +1,11 @@
 #include "manager.h"
-Hello There Hope this works :)
-manager::manager()
-{
+//Hello There Hope this works :)
+//manager::manager()
+//{
     //ctor
-}
+//}
 
-manager::~manager()
-{
+//manager::~manager()
+//{
     //dtor
-}
+//}

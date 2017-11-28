@@ -3,10 +3,10 @@ using namespace std;
 
 char get_position(){
 // Create user variables for the menu
-    char manager, baker, salesperson, distri, position;
+    char manager, baker, cashier, distri, position;
     manager = 'm';
     baker = 'b';
-    salesperson = 's';
+    cashier = 'c';
     distri = 'd';
     // Format:
     cout << "||========================================|| " << endl;
@@ -40,9 +40,9 @@ char get_position(){
         cout << "||              WELCOME BAKER             || " << endl;
         cout << "||========================================|| " << endl;
     }
-    else if(position == 's' || position == 'S'){
+    else if(position == 'c' || position == 'C'){
         cout << "||========================================|| " << endl;
-        cout << "||              WELCOME SALESPERSON       || " << endl;
+        cout << "||              WELCOME CHASIER           || " << endl;
         cout << "||========================================|| " << endl;
     }
     else if(position == 'd' || position == 'D'){
@@ -58,6 +58,8 @@ char get_position(){
 }
 int main(){
    char position = get_position();
+
+
 
 
     return 0;
