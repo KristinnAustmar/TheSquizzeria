@@ -34,7 +34,15 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/MainUI.h" />
+		<Unit filename="include/Pizza.h" />
+		<Unit filename="include/PizzaUI.h" />
+		<Unit filename="include/Topping.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/MainUI.cpp" />
+		<Unit filename="src/Pizza.cpp" />
+		<Unit filename="src/PizzaUI.cpp" />
+		<Unit filename="src/Topping.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
