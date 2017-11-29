@@ -2,6 +2,11 @@
 1511901247 source:c:\users\kjartan\desktop\squizzeria\main_menu\main.cpp
 	<iostream>
 
+<<<<<<< HEAD
+1511949215 source:c:\users\kjartan\desktop\thesquizzeria\main_menu\main.cpp
+	<iostream>
+
+=======
 1511906886 source:/Users/KristinnAustmar/Desktop/Verklegt1/TheSquizzeria/main_menu/main.cpp
 	<iostream>
 
@@ -10,3 +15,4 @@
 
 1511905813 /Users/KristinnAustmar/Desktop/Verklegt1/TheSquizzeria/main_menu/include/manager.h
 
+>>>>>>> b3503fcdad63a74718d08c9db9ca1f34bbefad88
