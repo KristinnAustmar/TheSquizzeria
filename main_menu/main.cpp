@@ -65,7 +65,7 @@ void manager_opt(int opt){
     }
 }
 int main(){
-    int opt;
+    int opt = 'a';
    char position = get_position();
    if(position == 'm' || position == 'M'){
         cout << "||========================================|| " << endl;
