@@ -85,6 +85,6 @@ int main(){
     else if(position == 'd' || position == 'D'){
 
     }
-
+    manager_opt(opt);
     return 0;
 }
