@@ -32,22 +32,22 @@ char get_position(){
          cin >> position;
     if(position == 'm' || position == 'M'){
         cout << "||========================================|| " << endl;
-        cout << "||              WELCOME MANAGER           || " << endl;
+        cout << "||             WELCOME MANAGER            || " << endl;
         cout << "||========================================|| " << endl;
     }
     else if(position == 'b' || position == 'B'){
         cout << "||========================================|| " << endl;
-        cout << "||              WELCOME BAKER             || " << endl;
+        cout << "||             WELCOME BAKER              || " << endl;
         cout << "||========================================|| " << endl;
     }
     else if(position == 'c' || position == 'C'){
         cout << "||========================================|| " << endl;
-        cout << "||              WELCOME CHASIER           || " << endl;
+        cout << "||            WELCOME CHASIER             || " << endl;
         cout << "||========================================|| " << endl;
     }
     else if(position == 'd' || position == 'D'){
         cout << "||========================================|| " << endl;
-        cout << "||              WELCOME DISTRIBUTION      || " << endl;
+        cout << "||           WELCOME DISTRIBUTION         || " << endl;
         cout << "||========================================|| " << endl;
     }
     else {
@@ -85,6 +85,6 @@ int main(){
     else if(position == 'd' || position == 'D'){
 
     }
-
+    manager_opt(opt);
     return 0;
 }
