@@ -5,15 +5,22 @@
 1511901247 D
 
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 1511965487 source:c:\users\kjartan\desktop\thesquizzeria\main_menu\main.cpp
 =======
+>>>>>>> c140636f317252f0011cf4c42ecf5512db883aa4
 1511949215 source:c:\users\kjartan\desktop\thesquizzeria\main_menu\main.cpp
 >>>>>>> 16b068a6bde53f2423ad421c3c105e4e2f5a663f
 	<iostream>
 
 1511949215 
 
+<<<<<<< HEAD
+1511963925 source:/Users/KristinnAustmar/Desktop/Verklegt1/TheSquizzeria/main_menu/main.cpp
+=======
 1511906886 source:/Users/KristinnAustmar/Desktop/Verklegt1/TheSquizzeria/main_menu/main.cpp
+>>>>>>> c140636f317252f0011cf4c42ecf5512db883aa4
 	<iostream>
 
 1511906922 source:/Users/KristinnAustmar/Desktop/Verklegt1/TheSquizzeria/main_menu/src/manager.cpp
@@ -25,7 +32,10 @@
 
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
 1511963913 source:/Users/Selma/Desktop/Verklegt1/TheSquizzeria/main_menu/main.cpp
 	<iostream>
 
 >>>>>>> 16b068a6bde53f2423ad421c3c105e4e2f5a663f
+>>>>>>> c140636f317252f0011cf4c42ecf5512db883aa4
