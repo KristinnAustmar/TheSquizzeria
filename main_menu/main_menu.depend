@@ -4,7 +4,11 @@
 
 1511901247 D
 
+<<<<<<< HEAD
 1511965487 source:c:\users\kjartan\desktop\thesquizzeria\main_menu\main.cpp
+=======
+1511949215 source:c:\users\kjartan\desktop\thesquizzeria\main_menu\main.cpp
+>>>>>>> 16b068a6bde53f2423ad421c3c105e4e2f5a663f
 	<iostream>
 
 1511949215 
@@ -19,3 +23,9 @@
 
 1511905813 03fcdad63a74718d08c9db9ca1f34bbefad88
 
+<<<<<<< HEAD
+=======
+1511963913 source:/Users/Selma/Desktop/Verklegt1/TheSquizzeria/main_menu/main.cpp
+	<iostream>
+
+>>>>>>> 16b068a6bde53f2423ad421c3c105e4e2f5a663f
