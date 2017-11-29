@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1511951846 source:c:\users\kjartan\desktop\thesquizzeria\klasar_fyrir_pizza\main.cpp
+	<iostream>
+	<fstream>
+	"main_ui.h"
+
+1511950947 c:\users\kjartan\desktop\thesquizzeria\klasar_fyrir_pizza\include\main_ui.h
+

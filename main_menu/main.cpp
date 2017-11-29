@@ -56,10 +56,35 @@ char get_position(){
 
   return position;  }
 }
+void manager_opt(int opt){
+    if( opt == 1){
+        cout << "PRICES PRICES PRICES";
+    }
+    else if(opt == 2){
+        cout << "TOPPINGS TOPPINGS TOPPINGS";
+    }
+}
 int main(){
+    int opt;
    char position = get_position();
+   if(position == 'm' || position == 'M'){
+        cout << "||========================================|| " << endl;
+        cout << "||     WHAT WOULD YOU LIKE TO DO TODAY?   || " << endl;
+        cout << "||========================================|| " << endl;
+        cout << " PLEASE ENTER A NUMBER FOR THE GIVEN OPTIONS" << endl;
+        cout << "1: SET PRICES" << endl;
+        cout << "2: SET AVALABLE TOPPINGS" << endl;
+        cin >> opt;
+    }
+    else if(position == 'b' || position == 'B'){
 
+    }
+    else if(position == 's' || position == 'S'){
 
+    }
+    else if(position == 'd' || position == 'D'){
+
+    }
 
 
     return 0;
