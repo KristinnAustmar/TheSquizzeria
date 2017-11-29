@@ -1,12 +1,14 @@
 #include <iostream>
+#include <fstream>
+#include "mainui.h"
 using namespace std;
 
 char get_position(){
 // Create user variables for the menu
-    char manager, baker, cashier, distri, position;
+    char manager, baker, sale, distri, position;
     manager = 'm';
     baker = 'b';
-    cashier = 'c';
+    sale = 'c';
     distri = 'd';
     // Format:
     cout << "||========================================|| " << endl;
@@ -65,7 +67,13 @@ void manager_opt(int opt){
     }
 }
 int main(){
+
     int opt = 'a';
+
+    MainUI mainui;
+    mainui.startUI();
+    return 0;
+
    char position = get_position();
    if(position == 'm' || position == 'M'){
         cout << "||========================================|| " << endl;
