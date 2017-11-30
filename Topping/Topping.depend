@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1512047085 source:c:\users\kjartan\desktop\thesquizzeria\topping\main.cpp
+	<iostream>
+	<fstream>
+	"Topping.h"
+
+1512036725 c:\users\kjartan\desktop\thesquizzeria\topping\include\topping.h
+	<string>
+	<iostream>
+	<stdio.h>
+
+1512046996 source:c:\users\kjartan\desktop\thesquizzeria\topping\src\topping.cpp
+	"Topping.h"
+	<string>
+

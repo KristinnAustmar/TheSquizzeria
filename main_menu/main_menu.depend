@@ -4,7 +4,14 @@
 
 1511905813 D
 
+<<<<<<< HEAD
 1511949215 source:c:\users\kjartan\desktop\thesquizzeria\main_menu\main.cpp
+=======
+1511978446 source:c:\users\kjartan\desktop\thesquizzeria\main_menu\main.cpp
+	<iostream>
+	<fstream>
+	"mainui.h"
+>>>>>>> 09e245e07cdb807713e87056d3caac38ce1e8586
 
 1511963913 0636f317252f0011cf4c42ecf5512db883aa4
 	<iostream>
@@ -14,8 +21,12 @@
 
 1511949215 
 
+<<<<<<< HEAD
 1511966111 source:/Users/KristinnAustmar/Desktop/Verklegt1/TheSquizzeria/main_menu/main.cpp
 	<iostream>
+=======
+1511906886 source:/Users/KristinnAustmar/Desktop/Verklegt1/TheSquizzeria/main_menu/main.cpp
+>>>>>>> 09e245e07cdb807713e87056d3caac38ce1e8586
 
 1511906922 source:/Users/KristinnAustmar/Desktop/Verklegt1/TheSquizzeria/main_menu/src/manager.cpp
 	"manager.h"
@@ -27,9 +38,43 @@
 1511963913 source:/Users/Selma/Desktop/Verklegt1/TheSquizzeria/main_menu/main.cpp
 	<iostream>
 
+<<<<<<< HEAD
 1511964240 source:/Users/KristinnAustmar/Desktop/Verklegt1/TheSquizzeria/main_menu/Pizza.cpp
 	"Pizza.h"
 
 1511965795 /Users/KristinnAustmar/Desktop/Verklegt1/TheSquizzeria/main_menu/Pizza.h
 	<iostream>
 
+=======
+1511977309 source:c:\users\kjartan\desktop\thesquizzeria\main_menu\src\mainui.cpp
+	<iostream>
+	<fstream>
+	"mainui.h"
+	"pizzaui.h"
+
+1511971021 c:\users\kjartan\desktop\thesquizzeria\main_menu\include\mainui.h
+
+1511977309 c:\users\kjartan\desktop\thesquizzeria\main_menu\include\pizzaui.h
+
+1511975188 source:c:\users\kjartan\desktop\thesquizzeria\main_menu\src\pizza.cpp
+	"Pizza.h"
+	<stddef.h>
+
+1511974154 c:\users\kjartan\desktop\thesquizzeria\main_menu\include\pizza.h
+	"topping.h"
+	<iostream>
+
+1511977777 c:\users\kjartan\desktop\thesquizzeria\main_menu\include\topping.h
+	<iostream>
+
+1511978013 source:c:\users\kjartan\desktop\thesquizzeria\main_menu\src\pizzaui.cpp
+	"PizzaUI.h"
+	<iostream>
+	"pizza.h"
+	"pizzaui.h"
+
+1511977767 source:c:\users\kjartan\desktop\thesquizzeria\main_menu\src\topping.cpp
+	"Topping.h"
+	<string.h>
+
+>>>>>>> 09e245e07cdb807713e87056d3caac38ce1e8586

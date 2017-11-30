@@ -2,28 +2,26 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="main_menu" />
+		<Option title="Topping" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/main_menu" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/Topping" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-g" />
-					<Add directory="include" />
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/main_menu" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/Topping" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-O2" />
-					<Add directory="include" />
 				</Compiler>
 				<Linker>
 					<Add option="-s" />
@@ -34,24 +32,12 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-<<<<<<< HEAD
-		<Unit filename="Pizza.cpp" />
-		<Unit filename="Pizza.h" />
-=======
-		<Unit filename="include/MainUI.h" />
-		<Unit filename="include/Pizza.h" />
-		<Unit filename="include/PizzaUI.h" />
-		<Unit filename="include/Topping.h" />
->>>>>>> 09e245e07cdb807713e87056d3caac38ce1e8586
 		<Unit filename="main.cpp" />
-		<Unit filename="src/MainUI.cpp" />
-		<Unit filename="src/Pizza.cpp" />
-		<Unit filename="src/PizzaUI.cpp" />
-		<Unit filename="src/Topping.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
 			<debugger />
+			<lib_finder disable_auto="1" />
 		</Extensions>
 	</Project>
 </CodeBlocks_project_file>
