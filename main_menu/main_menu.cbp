@@ -34,6 +34,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Pizza.cpp" />
+		<Unit filename="Pizza.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

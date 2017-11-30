@@ -2,25 +2,19 @@
 1511901247 source:c:\users\kjartan\desktop\squizzeria\main_menu\main.cpp
 	<iostream>
 
-1511901247 D
+1511905813 D
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-1511965487 source:c:\users\kjartan\desktop\thesquizzeria\main_menu\main.cpp
-=======
->>>>>>> c140636f317252f0011cf4c42ecf5512db883aa4
 1511949215 source:c:\users\kjartan\desktop\thesquizzeria\main_menu\main.cpp
->>>>>>> 16b068a6bde53f2423ad421c3c105e4e2f5a663f
+
+1511963913 0636f317252f0011cf4c42ecf5512db883aa4
+	<iostream>
+
+1511963913 068a6bde53f2423ad421c3c105e4e2f5a663f
 	<iostream>
 
 1511949215 
 
-<<<<<<< HEAD
-1511963925 source:/Users/KristinnAustmar/Desktop/Verklegt1/TheSquizzeria/main_menu/main.cpp
-=======
-1511906886 source:/Users/KristinnAustmar/Desktop/Verklegt1/TheSquizzeria/main_menu/main.cpp
->>>>>>> c140636f317252f0011cf4c42ecf5512db883aa4
+1511966111 source:/Users/KristinnAustmar/Desktop/Verklegt1/TheSquizzeria/main_menu/main.cpp
 	<iostream>
 
 1511906922 source:/Users/KristinnAustmar/Desktop/Verklegt1/TheSquizzeria/main_menu/src/manager.cpp
@@ -30,12 +24,12 @@
 
 1511905813 03fcdad63a74718d08c9db9ca1f34bbefad88
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
 1511963913 source:/Users/Selma/Desktop/Verklegt1/TheSquizzeria/main_menu/main.cpp
 	<iostream>
 
->>>>>>> 16b068a6bde53f2423ad421c3c105e4e2f5a663f
->>>>>>> c140636f317252f0011cf4c42ecf5512db883aa4
+1511964240 source:/Users/KristinnAustmar/Desktop/Verklegt1/TheSquizzeria/main_menu/Pizza.cpp
+	"Pizza.h"
+
+1511965795 /Users/KristinnAustmar/Desktop/Verklegt1/TheSquizzeria/main_menu/Pizza.h
+	<iostream>
+
